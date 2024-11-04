@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'rick/sitemap-generator',
+        'name' => 'rickstalker/sitemap-generator',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '0221f1c63e9a2045b280585866fe39fc50756b05',
+        'reference' => 'cd824634966d6276838ab58bef04a30f73ca2a81',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'rick/sitemap-generator' => array(
+        'rickstalker/sitemap-generator' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '0221f1c63e9a2045b280585866fe39fc50756b05',
+            'reference' => 'cd824634966d6276838ab58bef04a30f73ca2a81',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

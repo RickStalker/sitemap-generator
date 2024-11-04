@@ -1,5 +1,5 @@
 {
-  "name": "rick/sitemap-generator",
+  "name": "rickstalker/sitemap-generator",
   "description": "A PHP library for generating sitemaps in XML, CSV, and JSON formats.",
   "type": "library",
   "license": "MIT",
