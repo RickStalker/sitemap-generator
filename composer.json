@@ -1,0 +1,15 @@
+{
+  "name": "rick/sitemap-generator",
+  "description": "A PHP library for generating sitemaps in XML, CSV, and JSON formats.",
+  "version": "1.0.0",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+      "php": "^7.4 || ^8.0"
+  },
+  "autoload": {
+      "psr-4": {
+          "SitemapGenerator\\": "src/"
+      }
+  }
+}
